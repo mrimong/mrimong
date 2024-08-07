@@ -2,8 +2,9 @@
 I would love to connect with you 📫: https://www.linkedin.com/in/mrimon-nemo-guha-917b31133/
 
 #### Experience ⛑:
+<picture> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mu_sigma_logo.jpg?20111002162632" width="70" height="70" /> </picture>   <picture> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/EXL_Service_logo.svg/1200px-EXL_Service_logo.svg.png" width="70" height="70" /> </picture>   <picture> <img src="https://broadvisionmarketing.com/wp-content/uploads/2019/03/BVM-Logo-2019-Final.png" width="70" height="70" /> </picture>
 
-- Lead Data Analyst at Mu Sigma Sept'19-Feb'23
+- Lead Data Analyst at Mu Sigma Sept'19-Feb'23 
 - Lead Assistant Manager at EXL Feb'23 - Jul'23
 - Lead Data Analyst at BroadVision Marketing (Practicum Project) Aug'23 - June'24
 
