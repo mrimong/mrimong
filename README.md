@@ -7,6 +7,7 @@ I would love to connect with you 📫: https://www.linkedin.com/in/mrimon-nemo-g
 - Lead Data Analyst at Mu Sigma Sept'19-Feb'23 
 - Lead Assistant Manager at EXL Feb'23 - Jul'23
 - Lead Data Analyst at BroadVision Marketing (Practicum Project) Aug'23 - June'24
+- Senior Data Analyst at Samsung Electronics America Jan'25 - May'25 
 
 #### Education 👨‍🎓:
 - Masters in Business Analytics at UC Davis Graduate School of Management'2024 (MSBA Leadership Award Recipient)
